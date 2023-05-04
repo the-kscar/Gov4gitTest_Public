@@ -2,4 +2,4 @@
 A public repo as described as needed to join the governance community
 
 
-Test to send from the-kscar
+Test to send from msft account
